@@ -14,7 +14,33 @@
     font-size: 50px;
 }
 
-.head p {
+.section a {
+    display: block;
     color: aquamarine;
     font-size: 16px;
+}
+
+.normalSection h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.normalSection p {
+    font-size: 21px;
+    color: grey;
+}
+
+.normalSection img {
+    display: block;
+    margin: 20px auto;
+}
+
+.footer {
+    margin-bottom: 20px;
+}
+
+.footer p {
+    color: grey;
+    text-align: right;
+    font-size: 22px;
 }
